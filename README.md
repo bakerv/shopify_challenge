@@ -1,4 +1,4 @@
-# shopify_data_science_challenge
+# Shopify Data Science Internship Challenge
 
 Question 1 is answered using Python in the 'Question_1' Jupyter Notebook.
 
